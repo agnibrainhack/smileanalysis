@@ -1,0 +1,10 @@
+
+dj-database-url 
+django~=1.11.9
+django-tastypie 
+opencv-python 
+pillow 
+scikit-learn 
+scipy 
+numpy 
+
